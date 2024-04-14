@@ -1,0 +1,19 @@
+[
+{
+    "service": "Web Application Development",
+    "description":"With proficiency in leading front-end and back-end frameworks, I develop dynamic and interactive web applications that empower you to deliver innovative solutions to your target audience. From intuitive user interfaces to robust server-side architecture, I leverage cutting-edge technologies to bring your ideas to life and propel your business forward in the digital realm.",
+    "url":"#"
+},
+{
+    "service": "API Development and Integration",
+    "description":"I specialize in designing and developing RESTful APIs that facilitate communication between disparate systems, enabling data exchange, integration, and automation. Whether you need to create a new API for your application or integrate with existing APIs, I provide end-to-end API development and integration services that enhance functionality, extend capabilities, and streamline workflows.",
+    "url":"#"
+},
+{
+    "service": "Maintenance and Support",
+    "description":"From regular updates and security patches to proactive monitoring and troubleshooting, I offer dedicated support to keep your digital assets running smoothly and securely. Whether you need occasional assistance or ongoing maintenance plans, I provide flexible support options tailored to your specific needs and budget, allowing you to focus on your core business while I handle the technical details.",
+    "url":"#"
+}
+
+]
+  
