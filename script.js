@@ -1,4 +1,22 @@
 
+
+// ------Change Profile Tag-----------
+var profile = document.getElementById('profile');
+var list = ['Abhayjeet Kumar', 'Student','Web developer']
+var k = 0;
+setInterval(() => {
+  profile.innerText = list[k];
+  // for (let i = 0; i < list[k].length; i++) {
+  //   profile.innerText = list[k].slice(0,i+1);
+  // }
+  k=k+1;
+  if(k==list.length){
+    k=0;
+  }
+}, 3000);
+
+
+
 // -------About Link and Tab effects----------
 var tablinks = document.querySelectorAll('.tab-links');
 var tabcontents = document.querySelectorAll('.tab-contents');
