@@ -2,7 +2,7 @@
 
 // ------Change Profile Tag-----------
 var profile = document.getElementById('profile');
-var list = ['Abhayjeet Kumar', 'Student','Web developer']
+var list = ['Abhayjeet Kumar', 'Student','Web Developer']
 var k = 0;
 setInterval(() => {
   profile.innerText = list[k];
