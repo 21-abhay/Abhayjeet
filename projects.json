@@ -3,13 +3,13 @@
         "name":"E-commerce Website",
         "description":"My online retail crafted e-commerce website, where form meets function to deliver a seamless shopping experience. On the frontend, users are greeted with a visually stunning interface that showcases products in all their glory, complete with intuitive navigation. Behind the scenes, my robust backend architecture handle everything from inventory management and customer data management.",
         "url":"#",
-        "image":"./images/work-1.png"
+        "image":"./images/e-commerce.png"
     },
     {
         "name":"Tutorial Website",
         "description":"Empower learners and educators alike with my dynamic tutorial website, a comprehensive platform for knowledge sharing and skill development. Featuring a user-friendly frontend interface, my tutorial website offers easy navigation, engaging multimedia content, and interactive learning experiences tailored to diverse audiences.",
         "url":"#",
-        "image":"./images/work-2.png"
+        "image":"./images/tutorial.png"
     },
     {
         "name":"Video Streaming Plateform",
