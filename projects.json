@@ -12,6 +12,12 @@
         "image":"./images/tutorial.png"
     },
     {
+        "name":"Web-Developement Projects",
+        "description":"It has multiple projects, create using HTML/CSS/JAvascript.",
+        "url":"https://21-abhay.github.io/Web-Devlopement-Projects/",
+        "image":"./images/work-3.png"
+    },
+    {
         "name":"Video Streaming Plateform",
         "description":"Elevate your media experience with my video Streaming website, a versatile solution for streaming, playback, and content delivery. Seamlessly integrated into any web environment, my video player boasts a sleek frontend interface that combines sleek design with intuitive controls, providing users with an immersive viewing experience across devices.",
         "url":"#",
